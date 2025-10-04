@@ -7,3 +7,19 @@ This project is a modern, full-stack web application that acts as a personal AI 
 The application is built with a serverless-first approach, featuring a responsive, futuristic UI and a secure, scalable backend architecture.
 
 ### Keyfeature
+
+ Conversational Voice AI: Engage in a natural conversation with a voice assistant powered by Vapi to provide your fitness requirements.
+
+ **Intelligent Plan Generation:** Utilizes Google Gemini to create tailored workout and diet plans based on user-specific data like age, weight, goals, and injuries.
+
+ Secure Authentication: Full user authentication and management system handled by Clerk, including social sign-on and protected routes.
+
+ Real-time Database: Built on Convex, a serverless platform providing a real-time database, server functions, and file storage.
+
+ User Profile & Plan Management: Users can view their active and past fitness plans on a dedicated profile page.
+
+ Modern Tech Stack: Built with Next.js 15, React, and TypeScript for a type-safe, performant, and scalable application.
+
+ Cyberpunk UI: A sleek, responsive user interface styled with Tailwind CSS and Shadcn/ui, featuring custom animations and a futuristic aesthetic.
+
+ Serverless Functions & Webhooks: Backend logic is handled through Convex functions, including a webhook endpoint to sync user data from Clerk.
